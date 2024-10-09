@@ -1,3 +1,4 @@
+// https://medium.com/@ninucium/go-interview-questions-part-1-pointers-channels-and-range-67c61345cf3c
 package main
 
 import (
